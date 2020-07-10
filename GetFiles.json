@@ -1,0 +1,21 @@
+{
+    "result": true,
+    "IinFormation": {
+        "Text_Msg": "🗂¦ مرحبا بكم في متجر الملفات »  \nـ------------------------------------\n🤖| جميع الملفات متاحه الان .\n\n",
+        "Chaneel_ID": -100,
+        "Chaneel_Name": "سورس النيزك",
+        "Chaneel_UserName": "@TH3NK",
+        "WebSite": "https://t.me/TH3NK",
+        "BorderBy": "\n[*] علامه الـ✓ تعني الملف مفعل\n[*] وعلامه الـ✖️ تعني الملف غير مفعل  \n\nMade By { @TH3NK 📡 }."
+    },
+    "Developers": {
+        "Dev_1": "@Th3ss",
+        "Dev_2": "@AAH_MD",
+        "Dev_3": "Not Found"
+    },
+    "Plugins": {
+        "zhrfa.lua": "https://t.me/TH3NK",
+        "games.lua":"https://t.me/TH3NK",
+        "admins.lua": "https://t.me/TH3NK"
+    }
+}
